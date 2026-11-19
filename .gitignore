@@ -1,0 +1,6 @@
+# 运行期数据（访问密码、签名密钥、调试日志）不进仓库
+data.json
+state.json
+loaded.json
+last-*.json
+node_modules/
